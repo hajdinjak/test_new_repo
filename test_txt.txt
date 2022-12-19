@@ -1,0 +1,13 @@
+Wawi
+apo
+
+Sole
+
+
+
+
+git config --global user.name "hajdinjak"
+
+git config --global user.email "sanja.hajdinjak@temedica.com"
+
+git config --global core.editor "code -w"
